@@ -6,12 +6,9 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
 
 @media only screen and (max-width: 750px) {
 
-  .site-footer{
-    padding-top: 100px;
-  }
-
   #mobilee{
     visibility: visible;
+    padding-bottom:50px;
 }
 
 #bigg{
