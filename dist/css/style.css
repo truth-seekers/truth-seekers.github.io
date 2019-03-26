@@ -23,7 +23,15 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
     .hero-inner{
       margin-bottom:-50px;
     }
+
+    #top-image{
+      margin-bottom: -20px;
+    }
 } 
+
+#top-image{
+  margin-bottom: -45px
+}
 
 @media only screen and (min-width: 751px) {
     #footer-img{
