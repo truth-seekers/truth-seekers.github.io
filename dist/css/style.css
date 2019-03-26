@@ -30,6 +30,11 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
     #top-image{
       margin-bottom: -20px;
     }
+
+    #iphoneplz{
+      padding-top: 20px;
+    }
+
      }
 
      @media only screen 
@@ -64,7 +69,7 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
      and (min-width : 418px) 
      and (min-height : 740px) 
      and (-webkit-device-pixel-ratio : 3) { 
-      d{
+      .weird{
         height:300;
     }
     #mobilee{
